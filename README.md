@@ -8,7 +8,12 @@ acadêmica, incluindo alunos, professores e funcionários. Além disso, o site s
 valioso para orientar os alunos sobre os padrões de conduta e as responsabilidades que devem ser 
 seguidas dentro do ambiente universitário. Esta abordagem educacional busca não apenas estabelecer 
 diretrizes, mas também cultivar uma cultura de respeito, integridade e excelência acadêmica.
- 
+
+ ###Liguagens Utilizadas:
+
+ - HTML
+ - CSS
+ - JavaScript
 
 ## 🚀 Requisitos
 
