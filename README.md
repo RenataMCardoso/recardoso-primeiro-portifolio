@@ -9,7 +9,7 @@ valioso para orientar os alunos sobre os padrões de conduta e as responsabilida
 seguidas dentro do ambiente universitário. Esta abordagem educacional busca não apenas estabelecer 
 diretrizes, mas também cultivar uma cultura de respeito, integridade e excelência acadêmica.
 
- ###Liguagens Utilizadas:
+ ## Liguagens Utilizadas:
 
  - HTML
  - CSS
